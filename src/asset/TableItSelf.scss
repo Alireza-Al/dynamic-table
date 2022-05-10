@@ -1,0 +1,35 @@
+div {
+    .rowStyle {
+        max-width: 3%;
+        min-width: 3%;
+        min-height: 30px;
+        border-bottom-style: solid;
+        border-right-style: dashed;
+        border-right-color: rgb(123, 86, 158);
+        border-color: black;
+        background-color: rgb(123, 86, 158);
+    }
+    .topStyle {
+        min-height: 30px;
+        background-color: cadetblue;
+        text-align: center;
+        border-bottom-style: solid;
+        border-color: black;
+    }
+
+    .actionStyle {
+        max-width: 15px;
+        min-width: 6%;
+        min-height: 29px;
+        background-color: rgb(179, 58, 58);
+        border-bottom-style: solid;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+        border-color: black;
+    }
+    .indexStyle {
+        color: rgb(122, 62, 19);
+    }
+    .itemsStyle {
+        text-align: center;
+    }
+}
